@@ -8,6 +8,8 @@ int main() {
     cout << food << endl;
     cout << &food << endl;
     cout << ptr << endl;
+
+    // deference pointer
     cout << *ptr << endl;
 
     *ptr = "Hamburger";
